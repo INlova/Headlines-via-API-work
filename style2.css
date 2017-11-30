@@ -1,0 +1,10 @@
+body {
+	font-family: 'Tangerine', serif !important;
+	background-color: #ffffff;
+	text-align: center;
+	font-size: 25px;
+}
+img {
+	border-radius: 25px;
+	max-width: 75%;
+}
