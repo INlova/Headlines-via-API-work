@@ -4,7 +4,7 @@ $(document).ready(function() {
 		method: "GET",
 		url: "https://newsapi.org/v2/sources",
 		data: {
-			category: "gaming",
+			category: "business",
 			country: "us",
 			language: "en",
 			apiKey: APIKEY
